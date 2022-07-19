@@ -1,5 +1,4 @@
 /**
- * Unauthorized copying of this file, via any medium is strictly prohibited
  * Proprietary and confidential 
  * Written by Dakota Nickel <loyalmodding@gmail.com> and Hussein Chalak <husseinchalak6@gmail.com>
  * Original Author: Im Dakota#5882 on Discord
