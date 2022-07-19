@@ -1,4 +1,5 @@
 /**
+ * Proprietary and confidential
  * Written by Dakota Nickel <loyalmodding@gmail.com> and Hussein Chalak <husseinchalak6@gmail.com>
  * Original Author: Im Dakota#5882 on Discord
  * Approved Author: WarriorBuddy#9000 on Discord
