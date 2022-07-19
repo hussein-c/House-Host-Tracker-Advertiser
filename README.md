@@ -8,5 +8,5 @@
  * Function: Advertising hosts, clan and website
  * Requirements: Latest version of Java
  * Version 7.2.0 Update: 09/2021 (MM/YYYY)
- * __Note:__ Altar.rs web server got taken down by the clan owner Altar, and as a result, the application is not grabbing any web page data
+ * __Note:__ Altar.rs web server got taken down by the clan owner Altar due to real life circumstances, and as a result, the application is not grabbing any web page data
  */
