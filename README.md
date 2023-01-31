@@ -4,7 +4,7 @@
  * Copyright © 2022-present. All rights reserved.
  * Written by Mr Dakota N. and myself (Hussein C). I have been granted complete ownership of this repository.
  * Version: 7.2.0.
- * Function: Advertising RuneScape hosts, clan and website.
+ * Function: Advertising the RuneScape hosts, clan and website.
  * Requirement: Latest version of Java.
  * Status: Refactoring the codebase before adding new features and updates.
  */
